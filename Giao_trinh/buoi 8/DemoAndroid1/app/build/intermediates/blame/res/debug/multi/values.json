@@ -1,0 +1,315 @@
+[
+    {
+        "outputFile": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 52,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 58,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 58,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 49,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 535,
+                        "endColumn": 49,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endColumn": 47,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 47,
+                        "endOffset": 529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 50,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 50,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 52,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 52,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 483,
+                    "endColumn": 53,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 53,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 59,
+                    "endOffset": 592
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 59,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 597,
+                    "endColumn": 87,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 87,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 62,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 62,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 51,
+                    "endOffset": 795
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 51,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 800,
+                    "endColumn": 55,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endColumn": 55,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1142
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1147,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1302
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/Giao trinh/buoi 8/DemoAndroid1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    }
+]

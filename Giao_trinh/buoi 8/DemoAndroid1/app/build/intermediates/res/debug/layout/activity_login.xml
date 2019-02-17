@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <EditText 
+        android:id="@+id/edtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_ten"/>
+    
+    <EditText
+        android:id="@+id/edtPass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_mk"/>
+
+    <Button
+        android:id="@+id/btnCreate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dang_nhap" />
+    
+    <Button
+        android:id="@+id/btnList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/danh_sach" />
+    
+    <Button
+        android:id="@+id/btnDeleteAll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cap_nhat" />
+    
+     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    
+</LinearLayout><!-- From: file:/home/binc/Desktop/DemoAndroid1/app/src/main/res/layout/activity_login.xml -->
